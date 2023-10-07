@@ -1,6 +1,6 @@
 <a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
  
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
+<img align='right' src='https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif' width='150'>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/vlas_usdt?style=social)](https://twitter.com/intent/follow?screen_name=vlas_usdt) 
 [![GitHub followers](https://img.shields.io/github/followers/ChoyV?label=Follow&style=social)](https://github.com/ChoyV)  
