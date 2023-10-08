@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/vlas_usdt?style=social)](https://twitter.com/intent/follow?screen_name=vlas_usdt) 
 [![GitHub followers](https://img.shields.io/github/followers/ChoyV?label=Follow&style=social)](https://github.com/ChoyV)  
 
-I am a 👋 Junior Solidity Developer & Crypto Enthusiast 🚀 | Front-End & Smart Contract Dev | Open to New Connections 🌐
+👋 I am Junior Solidity Developer & Crypto Enthusiast 🚀 | Front-End & Smart Contract Dev | Open to New Connections 🌐
 Alchemy University 
 
 
