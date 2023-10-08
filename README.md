@@ -15,8 +15,8 @@
 
 </div>
 
-<p align="center">👋 I am Junior Solidity Developer & Crypto Enthusiast 🚀 | Front-End & Smart Contract Dev | Open to New Connections 🌐<br>
-Alchemy University 📚 </p>
+<p align="center">👋 I am Junior Solidity Developer & Crypto Enthusiast 🚀 | Front-End & Smart Contract Dev | Open to New Connections 🌐
+Alchemy University </p>
 
 
 <p align="center">
@@ -29,7 +29,7 @@ Alchemy University 📚 </p>
 <a name="tech and tools"></a>
 
 <p align="center">
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
 &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
@@ -48,6 +48,9 @@ Alchemy University 📚 </p>
 &nbsp;
 &nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Saas logo" title="Saas" height="25" />
+&nbsp;
+&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" />
 &nbsp;
 &nbsp;
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity logo" title="Solidity" height="25" />
