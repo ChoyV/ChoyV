@@ -1,4 +1,4 @@
-<a href="https://www.rishit.tech"><img src="" width="900"></a>
+<a href="https://github.com/ChoyV"><img src="https://github.com/ChoyV/ChoyV/blob/8e259ebc9f51c6f72b574d806a3fe001a3b3dbd9/images/header.png" width="900"></a>
  
 <img align='right' src='https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif' width='150'>
 
