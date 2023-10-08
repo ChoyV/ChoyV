@@ -15,8 +15,8 @@
 
 </div>
 
-<p align="center">👋 I am Junior Solidity Developer & Crypto Enthusiast 🚀 | Front-End & Smart Contract Dev | Open to New Connections 🌐
-Alchemy University </p>
+<p align="center">👋 I am Junior Solidity Developer & Crypto Enthusiast 🚀 | Front-End & Smart Contract Dev | Open to New Connections 🌐<br>
+Alchemy University 📚 </p>
 
 
 <p align="center">
